@@ -28,15 +28,23 @@ int main()
 	}
 	case 2:
 	{
-		cout << "‘ункци€ вычитани€ временно не доступна" << endl;
+		double a2, b2;
+		cout << "¬ведите первый аргумент" << endl;
+		cin >> a2;
+		cout << "¬ведите второй аргумент" << endl;
+		cin >> b2;
+		cout << MyVich(a2, b2) << endl;
 		break;
 	}
 	case 3:
 	{
-		{
-			cout << "‘ункци€ умножени€ временно не доступна" << endl;
-			break;
-		}
+		double a3, b3;
+		cout << "¬ведите первый аргумент" << endl;
+		cin >> a3;
+		cout << "¬ведите второй аргумент" << endl;
+		cin >> b3;
+		cout << MyMul(a3, b3) << endl;
+		break;
 	}
 	case 4:
 	{

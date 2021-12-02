@@ -15,12 +15,25 @@ int main()
 	{
 	case 1:
 	{
-		cout << "‘ункци€ сложени€ временно не доступна" << endl;
-		break;
+		{
+	double a, b;
+	cout Ђ "¬ведите первый аргумент" Ђ endl;
+	cin ї a;
+	cout Ђ "¬ведите второй аргумент" Ђ endl;
+	cin ї b;
+	cout Ђ MySum(a, b) Ђ endl;
+	break;
+	}
+	}
 	}
 	case 2:
 	{
-		cout << "‘ункци€ вычитани€ временно не доступна" << endl;
+		double a2, b2;
+		cout << "¬ведите первый аргумент" << endl;
+		cin >> a2;
+		cout << "¬ведите второй аргумент" << endl;
+		cin >> b2;
+		cout << MyVich(a2, b2) << endl;
 		break;
 	}
 	case 3:
