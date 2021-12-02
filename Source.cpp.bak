@@ -15,16 +15,8 @@ int main()
 	{
 	case 1:
 	{
-		{
-	double a, b;
-	cout « "Введите первый аргумент" « endl;
-	cin » a;
-	cout « "Введите второй аргумент" « endl;
-	cin » b;
-	cout « MySum(a, b) « endl;
-	break;
-	}
-	}
+		cout << "Функция сложения временно не доступна" << endl;
+		break;
 	}
 	case 2:
 	{
