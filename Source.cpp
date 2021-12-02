@@ -67,6 +67,7 @@ int main()
 	default:
 		break;
 	}
+	cout << "Thank you for using the program!\n With love from Vitaly and Ayten ^_^ " << endl;
 	system("pause");
 	return 0;
 }
