@@ -20,7 +20,12 @@ int main()
 	}
 	case 2:
 	{
-		cout << "‘ункци€ вычитани€ временно не доступна" << endl;
+		double a2, b2;
+		cout << "¬ведите первый аргумент" << endl;
+		cin >> a2;
+		cout << "¬ведите второй аргумент" << endl;
+		cin >> b2;
+		cout << MyVich(a2, b2) << endl;
 		break;
 	}
 	case 3:
