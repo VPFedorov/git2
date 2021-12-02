@@ -1,0 +1,12 @@
+#include "Header.h"
+<<<<<<< HEAD
+double MySum(double a, double b)
+{
+return a + b;
+}
+=======
+double MySub(double a, double b)
+{
+	return a - b;
+}
+>>>>>>> 9d4591af1d09b7184f42780d0b889f9222677d46

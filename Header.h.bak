@@ -1,0 +1,9 @@
+#pragma once
+#ifndef __HEADER_H__ 
+#define __HEADER_H__ 
+<<<<<<< HEAD
+double MySum(double, double);
+=======
+double MySub(double, double);
+>>>>>>> 9d4591af1d09b7184f42780d0b889f9222677d46
+#endif #pragma once
